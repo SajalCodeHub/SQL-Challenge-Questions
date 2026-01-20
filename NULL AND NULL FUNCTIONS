@@ -1,0 +1,13 @@
+1) What NULL really means?
+         = We might think NULL =0 OR NULL= False but NULL actually means Unknown, not available, not applicable .It means we don't know the value. 
+
+For example: 
+Name: Ram
+Age: ?
+Phone number: not provided
+
+= Age and Phone number is NULL since we don't know its value. 
+
+Syntax: Two NULL check operators
+1) IS NULL
+2) IS NOT NULL . Never use = , != etc. 
